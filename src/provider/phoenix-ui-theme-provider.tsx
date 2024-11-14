@@ -1,6 +1,6 @@
 import { red } from '@mui/material/colors';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
-import { ReactNode } from 'react';
+import React, { ReactNode } from 'react';
 import '@fontsource/inter';
 
 const theme = createTheme({

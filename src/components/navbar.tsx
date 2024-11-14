@@ -11,7 +11,7 @@ export const Navbar = () => {
         borderBottom: 1,
         borderColor: red[100],
       }}
-      justifyContent={'space-between'}
+      justifyContent={'space-between'}  
     >
       <Stack direction={'row'} spacing={2} alignItems={'center'}>
         {/* <img src={WingsLogo} alt="Logo" height={32} /> */}
