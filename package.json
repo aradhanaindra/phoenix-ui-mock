@@ -1,11 +1,12 @@
 {
   "name": "@aradhanaindra/phoenix-ui-mock",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "src/index.ts",
   "author": "",
   "license": "ISC",
   "description": "",
   "exports":{
+    ".": "./src/index.ts",
     "./fonts/inter.css": "./src/fonts/inter.css"
   },
   "publishConfig": {
