@@ -6,7 +6,7 @@
   "license": "ISC",
   "description": "",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@aradhanaindra"
+    "registry": "https://npm.pkg.github.com/@aradhanaindra/phoenix-ui-mock"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
