@@ -6,7 +6,7 @@
   "license": "ISC",
   "description": "",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@aradhanaindra"
   },
   "dependencies": {
     "@emotion/react": "^11.13.3",
