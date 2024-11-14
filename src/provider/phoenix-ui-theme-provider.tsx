@@ -5,9 +5,7 @@ import '@fontsource/inter';
 
 const theme = createTheme({
   typography: {
-    fontFamily: [
-      "Inter"
-    ].join(','),
+    fontFamily: "Inter"
   },
   palette: {
     primary: {

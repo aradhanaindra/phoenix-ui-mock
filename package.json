@@ -1,10 +1,13 @@
 {
   "name": "@aradhanaindra/phoenix-ui-mock",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/index.ts",
   "author": "",
   "license": "ISC",
   "description": "",
+  "exports":{
+    "./fonts/inter": "./src/fonts/inter.css"
+  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@aradhanaindra"
   },
