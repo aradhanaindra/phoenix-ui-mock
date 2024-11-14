@@ -1,11 +1,10 @@
 import { red } from '@mui/material/colors';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import React, { ReactNode } from 'react';
-import '@fontsource/inter';
 
 const theme = createTheme({
   typography: {
-    fontFamily: "Inter"
+    fontFamily: "Inter Variable"
   },
   palette: {
     primary: {
